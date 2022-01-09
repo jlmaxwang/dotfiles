@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = wangjilu23@gmail.com
+	name = Max Jilu Wang
