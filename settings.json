@@ -75,5 +75,21 @@
     "workbench.settings.editor": "json",
     "workbench.settings.openDefaultSettings": true,
     "workbench.settings.useSplitJSON": true,
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "tabnine.experimentalAutoImports": true,
+    "powermode.explosionFrequency": 1,
+    "powermode.explosionDuration": 300,
+    "powermode.explosionSize": 20,
+    "rufo.useBundler": true,
+    "npm.enableRunFromFolder": true,
+    "powermode.enableShake": false,
+    "powermode.maxExplosions": 100,
+    "powermode.presets": "fireworks",
+    "powermode.enabled": true,
+    "powermode.gifMode": "restart",
+    "powermode.comboTimeout": 100,
+    "workbench.editor.enablePreview": false,
+    "editor.accessibilitySupport": "off",
+    "explorer.confirmDragAndDrop": false,
+
 }

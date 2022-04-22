@@ -51,4 +51,9 @@
   rebase = false
 [user]
 	email = wangjilu23@gmail.com
-	name = Max Jilu Wang
+	name = Jilu Wang
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
